@@ -3,7 +3,7 @@
     {
       "id": 1,
       "title": "Welcome to the new Blog",
-      "body": "Lorem ipsum dolor sit amet, consectetur adip",
+      "body": "Lorem ipsum dolor sit amet, consectetur adip blabla",
       "tags": [
         "webdev",
         "coding",
@@ -13,7 +13,7 @@
     {
       "id": 2,
       "title": "Top 5 CSS Tips",
-      "body": "Lorem ipsum dolor sit amet, consectetur adip",
+      "body": "Lorem ipsum dolor sit amet, consectetur adip blabla",
       "tags": [
         "webdev",
         "coding",
